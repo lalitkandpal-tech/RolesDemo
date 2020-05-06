@@ -1,0 +1,2 @@
+Id,Email,PasswordHash,SecurityStamp,PhoneNumber,UserName,CommunicationAddress
+1,testbulk@gmail.com,Test@123,Test@123,9999999999,testbulk@gmail.com,testBulk Address
